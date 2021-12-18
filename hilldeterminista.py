@@ -1,6 +1,6 @@
 'funciones de Hill'
-
-#programa para graficar las difernetes funciones de Hill
+n
+#programa para graficar las diferentes funciones de Hill
 
 # se importan las librerias
 import numpy as np
