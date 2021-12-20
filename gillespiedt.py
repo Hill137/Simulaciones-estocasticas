@@ -114,7 +114,7 @@ def numero(S1): # funcion que devuelve mu
     r=np.random.rand()
     while l1<len(S1):
         if l3==0:
-            if r<=l2:
+            if r<=l2 and S1[l1]!=0:
                 l3=l3+1
                 return (l1)
             else:
